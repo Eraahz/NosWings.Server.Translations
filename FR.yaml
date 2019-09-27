@@ -544,7 +544,7 @@ WARNING_INFO: 'Tu as été averti : {0} fois.'
 WEDDING_REQUEST_RECEIVED: '#WEDDING_REQUEST_RECEIVED'
 WEDDING_REQUEST_VERIFICATION: '#WEDDING_REQUEST_VERIFICATION'
 WELCOME_MUSIC_INFO: Mélodie^du^pringtemps
-WHISPER_BLOCKED: À partir de maintenant, tu débloques les chuchotements.
+WHISPER_BLOCKED: À partir de maintenant, tu bloques les chuchotements.
 WHISPER_UNLOCKED: À partir de maintenant, tu débloques les chuchotements.
 WILL_BE_BACK: '#WILL_BE_BACK'
 WIN_MONEY: Tu reçois {0} pièces d'or en récompense de ta victoire.
